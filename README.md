@@ -1,0 +1,2 @@
+# Domains
+Bulunan/Keşfedilen portlar
